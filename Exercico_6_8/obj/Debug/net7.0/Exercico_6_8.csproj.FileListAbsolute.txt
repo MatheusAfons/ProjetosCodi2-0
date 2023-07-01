@@ -1,0 +1,15 @@
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercico_6_8\bin\Debug\net7.0\Exercico_6_8.exe
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercico_6_8\bin\Debug\net7.0\Exercico_6_8.deps.json
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercico_6_8\bin\Debug\net7.0\Exercico_6_8.runtimeconfig.json
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercico_6_8\bin\Debug\net7.0\Exercico_6_8.dll
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercico_6_8\bin\Debug\net7.0\Exercico_6_8.pdb
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercico_6_8\obj\Debug\net7.0\Exercico_6_8.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercico_6_8\obj\Debug\net7.0\Exercico_6_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercico_6_8\obj\Debug\net7.0\Exercico_6_8.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercico_6_8\obj\Debug\net7.0\Exercico_6_8.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercico_6_8\obj\Debug\net7.0\Exercico_6_8.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercico_6_8\obj\Debug\net7.0\Exercico_6_8.dll
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercico_6_8\obj\Debug\net7.0\refint\Exercico_6_8.dll
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercico_6_8\obj\Debug\net7.0\Exercico_6_8.pdb
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercico_6_8\obj\Debug\net7.0\Exercico_6_8.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercico_6_8\obj\Debug\net7.0\ref\Exercico_6_8.dll

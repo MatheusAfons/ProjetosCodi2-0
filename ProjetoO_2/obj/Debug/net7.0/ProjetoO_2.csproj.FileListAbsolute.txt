@@ -1,0 +1,15 @@
+C:\Users\Matheus\Desktop\ProjetosCodi\ProjetoO_2\bin\Debug\net7.0\ProjetoO_2.exe
+C:\Users\Matheus\Desktop\ProjetosCodi\ProjetoO_2\bin\Debug\net7.0\ProjetoO_2.deps.json
+C:\Users\Matheus\Desktop\ProjetosCodi\ProjetoO_2\bin\Debug\net7.0\ProjetoO_2.runtimeconfig.json
+C:\Users\Matheus\Desktop\ProjetosCodi\ProjetoO_2\bin\Debug\net7.0\ProjetoO_2.dll
+C:\Users\Matheus\Desktop\ProjetosCodi\ProjetoO_2\bin\Debug\net7.0\ProjetoO_2.pdb
+C:\Users\Matheus\Desktop\ProjetosCodi\ProjetoO_2\obj\Debug\net7.0\ProjetoO_2.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\ProjetosCodi\ProjetoO_2\obj\Debug\net7.0\ProjetoO_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\ProjetosCodi\ProjetoO_2\obj\Debug\net7.0\ProjetoO_2.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\ProjetosCodi\ProjetoO_2\obj\Debug\net7.0\ProjetoO_2.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\ProjetosCodi\ProjetoO_2\obj\Debug\net7.0\ProjetoO_2.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\ProjetosCodi\ProjetoO_2\obj\Debug\net7.0\ProjetoO_2.dll
+C:\Users\Matheus\Desktop\ProjetosCodi\ProjetoO_2\obj\Debug\net7.0\refint\ProjetoO_2.dll
+C:\Users\Matheus\Desktop\ProjetosCodi\ProjetoO_2\obj\Debug\net7.0\ProjetoO_2.pdb
+C:\Users\Matheus\Desktop\ProjetosCodi\ProjetoO_2\obj\Debug\net7.0\ProjetoO_2.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\ProjetosCodi\ProjetoO_2\obj\Debug\net7.0\ref\ProjetoO_2.dll

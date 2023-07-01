@@ -1,0 +1,15 @@
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercicio_5\bin\Debug\net7.0\Exercicio_5.exe
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercicio_5\bin\Debug\net7.0\Exercicio_5.deps.json
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercicio_5\bin\Debug\net7.0\Exercicio_5.runtimeconfig.json
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercicio_5\bin\Debug\net7.0\Exercicio_5.dll
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercicio_5\bin\Debug\net7.0\Exercicio_5.pdb
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercicio_5\obj\Debug\net7.0\Exercicio_5.csproj.AssemblyReference.cache
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercicio_5\obj\Debug\net7.0\Exercicio_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercicio_5\obj\Debug\net7.0\Exercicio_5.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercicio_5\obj\Debug\net7.0\Exercicio_5.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercicio_5\obj\Debug\net7.0\Exercicio_5.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercicio_5\obj\Debug\net7.0\Exercicio_5.dll
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercicio_5\obj\Debug\net7.0\refint\Exercicio_5.dll
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercicio_5\obj\Debug\net7.0\Exercicio_5.pdb
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercicio_5\obj\Debug\net7.0\Exercicio_5.genruntimeconfig.cache
+C:\Users\Matheus\Desktop\ProjetosCodi\Exercicio_5\obj\Debug\net7.0\ref\Exercicio_5.dll
